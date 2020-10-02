@@ -1,11 +1,18 @@
 # ForegroundServiceXamarin
 
-
+#
+#
+#
 
 
 ### This foreground Service demo app is implemented to be used from the Xamarin.Forms rather than Xamarin.Android. The Idea behind implementing this is to have a reference demo based on which anyone can redirect the Foreground service to xamarin.android via shared project.
 
-
+#
+#
+#
+#
+#
+#
 
 
 
